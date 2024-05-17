@@ -1,0 +1,21 @@
+h1{
+    color:Darkviolet;
+}
+
+h3{
+    color:blue;
+}
+
+h2{
+    color:red;
+}
+
+body{
+    background-image:url(https://yapx.ru/album/XaofC);
+}
+
+.passport{
+    outline-style:solid;
+    outline-color:yellow;
+    outline-width:10px;
+}
